@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: tan-dara2643-reaccttt-container
-          image: pipejet/tan-dara2643-reaccttt:0
+          image: pipejet/tan-dara2643-reaccttt:1
           ports:
             - containerPort: 3000
